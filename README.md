@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjeev Kumar Gond
-- 👀 I’m interested in Full Stack Developments
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning  Microservices...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> sskumar9128@gmail.com || https://www.linkedin.com/in/sanjeev-kumar-gond-449694295/
